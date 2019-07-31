@@ -1,0 +1,6 @@
+---
+- name: implementing roles for tomcat8
+  hosts: all
+  roles:
+   - tomcat
+...
